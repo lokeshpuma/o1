@@ -9,5 +9,6 @@ mul();{
 printf("multiply")}
 div();{
 printf("dividee")}
+ram ram 
 }
 
