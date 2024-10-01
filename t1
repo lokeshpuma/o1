@@ -7,5 +7,7 @@ sub();{
 printf("subtraction")}
 mul();{
 printf("multiply")}
-div(); }
+div();{
+printf("dividee")}
+}
 
