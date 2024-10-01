@@ -5,7 +5,7 @@ add();{
 printf("addition")}
 sub();{
 printf("subtraction")}
-mul();
-div();
-}
+mul();{
+printf("multiply")}
+div(); }
 
